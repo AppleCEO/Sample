@@ -1,0 +1,6 @@
+framework module Pods_CollectionViewOneRowThreeItems {
+  umbrella header "Pods-CollectionViewOneRowThreeItems-umbrella.h"
+
+  export *
+  module * { export * }
+}
