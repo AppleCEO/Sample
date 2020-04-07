@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>520949681905-ul6bbpmc553a6qm0c5g8tf1tur8cffou.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.520949681905-ul6bbpmc553a6qm0c5g8tf1tur8cffou</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASynasHvqd6xi-sWCNx4AIm2sk0rjoqGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520949681905</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.kiljh.NotiTest</string>
+	<key>PROJECT_ID</key>
+	<string>testnoti-48c73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testnoti-48c73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520949681905:ios:7cfc630abf6ea9a74de350</string>
+	<key>DATABASE_URL</key>
+	<string>https://testnoti-48c73.firebaseio.com</string>
+</dict>
+</plist>

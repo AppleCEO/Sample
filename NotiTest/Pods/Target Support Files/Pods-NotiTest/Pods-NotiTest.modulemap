@@ -1,0 +1,6 @@
+framework module Pods_NotiTest {
+  umbrella header "Pods-NotiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
